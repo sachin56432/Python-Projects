@@ -1,2 +1,7 @@
 # Python-Projects
-Class Assignment
+This Python program analyzes sales data to visualize trends for the two best-performing product categories over time. It begins by importing the necessary libraries, pandas for data manipulation and matplotlib for visualization. The dataset is read from a CSV file named sales_data.csv, and the “Sale_Date” column is converted into a proper datetime format to enable time-based analysis. From this, a new “Month” column is created, representing each sale’s month and year.
+
+Next, the code identifies the top two product categories based on their total sales amounts by grouping the data according to product categories and selecting those with the highest overall sales. Once these top categories are determined, the data is filtered to include only those products. The program then groups the filtered data by both month and product category to calculate the total monthly sales for each. This grouped data is rearranged so that each product category forms its own column, making it easier to compare them visually.
+
+Finally, the program generates a line chart with markers showing how sales for the top two categories have changed month by month. The axes are labeled appropriately, a title is added for clarity, and a legend is placed at the lower right of the plot. A grid with dashed lines is also included for easier interpretation. The resulting chart provides a clear visual comparison of monthly sales trends for the two most successful product categories.
+
