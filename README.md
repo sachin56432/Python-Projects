@@ -5,3 +5,6 @@ Next, the code identifies the top two product categories based on their total sa
 
 Finally, the program generates a line chart with markers showing how sales for the top two categories have changed month by month. The axes are labeled appropriately, a title is added for clarity, and a legend is placed at the lower right of the plot. A grid with dashed lines is also included for easier interpretation. The resulting chart provides a clear visual comparison of monthly sales trends for the two most successful product categories.
 
+I added One other Question ion this assignment is find the minmum value
+
+
