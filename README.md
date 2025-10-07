@@ -7,4 +7,6 @@ Finally, the program generates a line chart with markers showing how sales for t
 
 I added One other Question ion this assignment is find the minmum value
 
+Today We will study about preceptron and write code about this
+
 
